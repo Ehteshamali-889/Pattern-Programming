@@ -1,3 +1,7 @@
+//input 5
+//output 12345
+//input 7
+//output 1234567
 #include <iostream>
 using namespace std;
 
